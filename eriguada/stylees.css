@@ -1,0 +1,29 @@
+/*Estilos para el cuerpo del documento */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #90bedd;
+  margin: 0;
+  padding: 0;
+}
+
+/* Estilos para el contenedor del formulario */
+.login{
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #97cdff;
+    border-radius: 8px;
+}
+.icon {
+    width: 30px;
+    height: 30px;
+    margin-right: 5px;
+}
+h2{
+    max-width: 400px;
+    margin: 100px auto;
+    padding: 20px;
+    background-color: #97cdff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(19, 14, 65, 0.1);
+}
